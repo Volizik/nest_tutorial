@@ -1,0 +1,7 @@
+db:
+  host: 'localhost'
+  username: 'volizik'
+  password: '1'
+
+jwt:
+  secret: 'topSecret51'
